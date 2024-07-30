@@ -1,4 +1,3 @@
-# PRODIGY_DS_05
 ## Overview
 This project analyzes road traffic accident data to identify patterns related to road conditions, weather, time of day, and driver demographics. The goal is to uncover insights that can help improve road safety by understanding the factors that contribute to accidents.
 
